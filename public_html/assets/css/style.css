@@ -11546,8 +11546,8 @@ pre .code {
 
 .header {
   position: relative;
-  height: 80vh;
-  min-height: 600px;
+  height: 50vh;
+  min-height: 450px;
   background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header_bg_1.jpg);
   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header_bg_1.jpg);
   background-size: cover;
@@ -11612,8 +11612,8 @@ pre .code {
 
 @media (max-width: 991.98px) {
   .header {
-    height: 350px;
-    min-height: 350px;
+    height: 300px;
+    min-height: 300px;
   }
 }
 
