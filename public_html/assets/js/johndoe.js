@@ -56,7 +56,7 @@ $(document).ready(function(){
 }); 
 
 $(document).ready(function(){
-    $(".nav-link").on('click', function(event) {
+    $(".mobile_link").on('click', function(event) {
 		if ($(".navbar-collapse").hasClass("show")){
 			$(".navbar-collapse").removeClass("show");
         }
