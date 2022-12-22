@@ -8942,7 +8942,7 @@ button.bg-dark:focus {
   margin-right: 1rem !important;
 }
 
-@media (min-width: 991.98px) {
+@media (max-width: 991.98px) {
 	.mr-3{
 		margin-right: 0 !important;
 	}
@@ -11655,12 +11655,16 @@ pre .code {
 
 @media (max-width: 991.98px) {
 	.section {
-		padding: 35px 0;
+		padding: 70px 0;
 	}
 }
 
 .section.bg-custom-gray {
   background: rgba(242, 244, 247, 0.15);
+}
+
+#about{
+	padding-top:30px;
 }
 
 .about-section {
