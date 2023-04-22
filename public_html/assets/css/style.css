@@ -11776,7 +11776,12 @@ pre .code {
 	margin-bottom:0;
 }
 
-.iframe-container{
+.allure img{
+	max-width:100%;
+	height:auto;
+}
+
+.iframe-container {
 	position:relative;
 	width:100%;
 	padding-bottom:56.25%;
